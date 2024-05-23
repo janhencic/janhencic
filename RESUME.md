@@ -1,6 +1,3 @@
-% Jan Hencic's Resume
-% Updated May 23, 2024
-
 # About
 
 Hello! I'm Jan, a **Software Engineer** from Slovenia.
