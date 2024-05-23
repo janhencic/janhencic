@@ -32,13 +32,17 @@ Joined the team managing the company's self-hosted development platform (Jira, C
 - **Period**: April 2020 - July 2021 (1 year and 4 months)
 - **Technologies**: Kubernetes, Ansible, Terraform, Docker
 
+\newpage
+
 # Education
 
 ## Master's Degree in Computer Science
 - **Institution**: University of Maribor
 - **Period**: 2017-2020
+- **Master's Thesis**: [Steganographic algorithm for data hiding in digital video](https://dk.um.si/IzpisGradiva.php?id=75769&lang=slv)
 
 ## Bachelor's Degree in Computer Science
 - **Institution**: University of Maribor
 - **Period**: 2013-2017
+- **Bachelor's Thesis**: [Overfitting prevention in training of multilayer neural networks](https://dk.um.si/IzpisGradiva.php?id=67439&lang=slv)
 
