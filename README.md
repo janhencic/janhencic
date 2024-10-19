@@ -5,9 +5,13 @@ Hello 👋.
 
 I'm Jan, a **Software Engineer** from Slovenia.
 
-I currently work at **SCND**, focusing on developing with **Rust**.
-I also have an interest in DevOps technologies and a growing fascination with **Nix**.
+I'm Jan, a Software Engineer from Slovenia.
+I currently work at [SAP LeanIX](leanix.net), focusing on Go development. I have several
+years of experience working with Rust and a keen interest in DevOps
+technologies, along with a growing fascination for Nix.
 
 You can view my resume in Markdown format by clicking on [RESUME](./RESUME.md).
 
-💬 You can contact me through my [LinkedIn Profile](https://www.linkedin.com/in/jannh/) or by emailing me at `jan@hencic.com`.
+💬 You can contact me through my [LinkedIn
+Profile](https://www.linkedin.com/in/jannh/) or by emailing me at
+`jan@hencic.com`.
