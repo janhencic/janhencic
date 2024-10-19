@@ -18,8 +18,8 @@ Profile](https://www.linkedin.com/in/jannh/) or by emailing me at
 
 # Software Engineer · SAP LeanIX
 
-**October 2024 – Present**
-**Technologies: Go, Kubernetes**
+**October 2024 – Present**\
+**Technologies:** Go, Kubernetes
 
 * Focusing on Go development for enterprise software solutions.
 * Contributing to Kubernetes-based microservices architecture.
@@ -27,8 +27,8 @@ Profile](https://www.linkedin.com/in/jannh/) or by emailing me at
 
 # Software Engineer · SCND
 
-**March 2024 – October 2024**
-**Technologies: Rust, Event Sourcing**
+**March 2024 – October 2024**\
+**Technologies:** Rust, Event Sourcing
 
 Building an Ecommerce SaaS platform used to sell services.
 
@@ -38,8 +38,8 @@ Building an Ecommerce SaaS platform used to sell services.
 
 # Rust Developer · tvbeat
 
-**July 2021 – March 2024**
-**Technologies: Rust, Nix, Lua**
+**July 2021 – March 2024**\
+**Technologies:** Rust, Nix, Lua
 
 Building real-time advertisement and audience analytic solutions for TV broadcasters.
 
@@ -51,8 +51,8 @@ Building real-time advertisement and audience analytic solutions for TV broadcas
 
 # DevOps Engineer · BearingPoint
 
-**April 2020 – July 2021**
-**Technologies: Kubernetes, Ansible, Terraform, Docker**
+**April 2020 – July 2021**\
+**Technologies**: Kubernetes, Ansible, Terraform, Docker
 
 Developed and managed a robust DevOps platform.
 
