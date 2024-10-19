@@ -1,36 +1,66 @@
-# About
+# Jan Hencic
 
-Hello! I'm Jan, a **Software Engineer** from Slovenia.
+Hello 👋.
 
-I currently work at **SCND**, focusing on developing with **Rust**.
-I have an interest in DevOps technologies and a growing fascination with **Nix**.
+I'm Jan, a **Software Engineer** from Slovenia.
 
-You can contact me through my [LinkedIn Profile](https://www.linkedin.com/in/jannh/) or by emailing me at `jan@hencic.com`.
+I currently work at [SAP LeanIX](leanix.net), focusing on Go development. I have several
+years of experience working with Rust and a keen interest in DevOps
+technologies, along with a growing fascination for Nix.
 
-Below you can find a summary of my Work Experience and Education.
+You can view my resume in Markdown format by clicking on [RESUME](./RESUME.md).
+
+💬 You can contact me through my [LinkedIn
+Profile](https://www.linkedin.com/in/jannh/) or by emailing me at
+`jan@hencic.com`.
 
 # Experience
 
-## Software Engineer at SCND
+# Software Engineer · SAP LeanIX
 
-Developing a SaaS ecommerce platform for services using Rust with Event Sourcing.
+**October 2024 – Present**
+**Technologies: Go, Kubernetes**
 
-- **Period**: March 2024 – Present
-- **Technologies**: Rust, Event Sourcing
+* Focusing on Go development for enterprise software solutions.
+* Contributing to Kubernetes-based microservices architecture.
+* Collaborating with cross-functional teams to enhance product features.
 
-## Rust Developer at tvbeat
+# Software Engineer · SCND
 
-Integrating various TV platforms within the tvbeat systems, processing large amounts of data in raw formats (mostly CSV, but also JSON and XML). Developed and utilized an internal processing and runtime querying framework.
+**March 2024 – October 2024**
+**Technologies: Rust, Event Sourcing**
 
-- **Period**: July 2021 – March 2024
-- **Technologies**: Rust, Nix, Lua
+Building an Ecommerce SaaS platform used to sell services.
 
-## DevOps Engineer at BearingPoint
+- Used Rust and Event Sourcing to build backend solutions. 
+- Worked with microservices using Kubernetes to efficiently manage deployments. 
+- Collaborated closely with the front-end team to coordinate API development.
 
-Joined the team managing the company's self-hosted development platform (Jira, Confluence, Bitbucket, Artifactory, Jenkins), which runs on over 100 servers in an OpenStack cloud. Participated in 24/7 on-call rotation, performed software updates, and executed system migrations. Utilized Kubernetes to deploy various services for external clients.
+# Rust Developer · tvbeat
 
-- **Period**: April 2020 – July 2021
-- **Technologies**: Kubernetes, Ansible, Terraform, Docker
+**July 2021 – March 2024**
+**Technologies: Rust, Nix, Lua**
+
+Building real-time advertisement and audience analytic solutions for TV broadcasters.
+
+- Regularly used the Rust programming language for development, and Nix for both deployments and further development tasks.
+- Used Lua for orchestration tasks.
+- Efficiently processed and transformed large datasets into internal TVbeat formats.
+- Developed and utilized internal runtime frameworks to analyze the processed data.
+- Integrated television advertisement data for multiple international clients, including Sky Media, Comcast, and Charter.
+
+# DevOps Engineer · BearingPoint
+
+**April 2020 – July 2021**
+**Technologies: Kubernetes, Ansible, Terraform, Docker**
+
+Developed and managed a robust DevOps platform.
+
+- Developed and managed a DevOps platform with Docker containers on an internal OpenStack Cloud infrastructure.
+- Employed Kubernetes to deploy services for external clients.
+- Deployed and configured over 140 production services, supporting approximately 200 developers.
+- Utilized monitoring tools such as Prometheus and Grafana to
+  ensure continuous service uptime.
 
 \newpage
 
